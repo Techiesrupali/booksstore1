@@ -1,0 +1,17 @@
+{
+    "success": {
+      "create": "Book created successfully.",
+      "update": "Book updated successfully.",
+      "delete": "Book deleted successfully.",
+      "fetch": "Books fetched successfully."
+    },
+    "error": {
+      "create": "Error creating book. Please try again.",
+      "update": "Error updating book. Please try again.",
+      "delete": "Error deleting book. Please try again.",
+      "fetch": "Error fetching books. Please try again.",
+      "notFound": "Book not found.",
+      "invalidInput": "Invalid input. Please check the data and try again."
+    }
+  }
+  
